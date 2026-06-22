@@ -30,6 +30,7 @@ Week 1:
 In this week, I have worked on building the basic foundation of the python which includes building algorithms, understanding loops, Understanding conditional problems.<br>
 <br>
 The google colab link of week 1 assignment is given below:<br>
+https://colab.research.google.com/drive/1MEr4SLyOVmL798kiUbK5KwfyODcLczBD?usp=sharing <br>
 <br>
 <br>
 Week 2:
@@ -37,12 +38,14 @@ This week focuses on how to create set ?, dictionaries how to use algorithms lik
 given input ? also under data structure of python more deeply. <br>
 <br>
 The google colab link of week 2 assignment is given below: <br>
+https://colab.research.google.com/drive/1hK6JBI5VwNROKfD5DlxH2JfQEeSz-F-2?usp=sharing <br>
 <br>
 <br>
 Week 3:
 This week mainly focuses on learning recursion fundamentals and algorithms like Binary Search, merge  and merge & sort. it also includes building basics of greedy and backtracking and Time and space complexity.<br>
 <br>
 The google colab link of week 3 assignment is given below:<br>
+https://colab.research.google.com/drive/1Y7YthVlEpJZdPqac3s0OuIJ--j2CEGLh?usp=sharing <br>
 <br>
 <br>
 week 4:
@@ -50,6 +53,7 @@ This week focuses on learning the implementation of dijkastra's, kahn's and kosa
 cycle detection.<br>
 <br>
 The google colab link of week 4 assignment is given below:<br>
+https://colab.research.google.com/drive/1e0Hex861vLfEMflewH39xU3Jo2rg8Xs4?usp=sharing <br>
 <br>
 <br>
 

@@ -67,7 +67,7 @@ https://colab.research.google.com/drive/1e0Hex861vLfEMflewH39xU3Jo2rg8Xs4?usp=sh
 <br>
 Conclusion:<br>
 <br>
-The first four week have improved my understanding of CP and algorithmic problem solving .Through regular practice and assignment completion, i have gained confidence in designing efficient solutions and implemeting them in python. The knowledge acquired so far provided so far provides a strong foundation for tackling more advanced algorithm and challenging problems 
+The first four week have improved my understanding of CP and algorithmic problem solving .Through regular practice and assignment completion, i have gained confidence in designing efficient solutions and implemeting them in python. The knowledge acquired so far provided provides a strong foundation for tackling more advanced algorithm and challenging problems 
 
 
 

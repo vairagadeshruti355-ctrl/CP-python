@@ -40,12 +40,18 @@ The google colab link of week 2 assignment is given below: <br>
 <br>
 <br>
 Week 3:
-This week mainly focuses on learning recursion fundamentals and algorithms like dijkastra, kahn's and kosaraju's for building the ability to solve the question of finding the shortest path and maximizing the output for given input. it also includes building basics of greedy and backtracking and Time and space complexity.<br>
+This week mainly focuses on learning recursion fundamentals and algorithms like Binary Search, merge  and merge & sort. it also includes building basics of greedy and backtracking and Time and space complexity.<br>
 <br>
 The google colab link of week 3 assignment is given below:<br>
 <br>
 <br>
 week 4:
+This week focuses on learning the implementation of dijkastra's, kahn's and kosajaru's algorithm for solving questions of finding shortest path or maximizing output this week also focuses on building foundational knowledge on graph basics and implementation of techniques like BFS and DFS for graph traversal as well as
+cycle detection.<br>
+<br>
+The google colab link of week 4 assignment is given below:<br>
+<br>
+<br>
 
 
 

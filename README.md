@@ -1,6 +1,6 @@
 # Competitive Programming in python - (from begginer to contest level)
 
-Mentor : Srinivas Dorisala
+Mentor : Srinivas Dorisala<br>
 Mentee : Shruti Vairagade<br>
 <br>
 
@@ -27,8 +27,26 @@ Topics covered:<br>
 <br>
 <br>
 Week 1:
-In this week, I have worked on building the basic foundation of the python which includes building algorithms, understanding loops, Understanding conditional problems<br>
-The google colab link of week 1 assignment is below:<br>
+In this week, I have worked on building the basic foundation of the python which includes building algorithms, understanding loops, Understanding conditional problems.<br>
+<br>
+The google colab link of week 1 assignment is given below:<br>
+<br>
+<br>
+Week 2:
+This week focuses on how to create set ?, dictionaries how to use algorithms like sorting and searching can be used to get the required information as output for
+given input ? also under data structure of python more deeply. <br>
+<br>
+The google colab link of week 2 assignment is given below: <br>
+<br>
+<br>
+Week 3:
+This week mainly focuses on learning recursion fundamentals and algorithms like dijkastra, kahn's and kosaraju's for building the ability to solve the question of finding the shortest path and maximizing the output for given input. it also includes building basics of greedy and backtracking and Time and space complexity.<br>
+<br>
+The google colab link of week 3 assignment is given below:<br>
+<br>
+<br>
+week 4:
+
 
 
 
